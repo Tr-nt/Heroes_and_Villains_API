@@ -1,2 +1,2 @@
-# Heroes_and_Villians_API
+# Heroes_and_Villains_API
 Practice Django API Project
